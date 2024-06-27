@@ -7,9 +7,6 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.starbuckeas.SignInActivity
-
-
 
 class SignUpActivity : AppCompatActivity() {
     private lateinit var nameEditText: EditText
